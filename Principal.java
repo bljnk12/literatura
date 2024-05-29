@@ -33,7 +33,7 @@ public class Principal {
                         1 - Buscar libro por titulo
                         2 - Listar libros registrados
                         3 - Listar autores registrados
-                        4 - test
+                        4 - Listar autores vivos
                         5 - Listar libros por idioma
                                       
                         6 - Salir
