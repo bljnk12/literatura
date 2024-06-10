@@ -1,5 +1,5 @@
-# literatura
-Challenge literatura
+# literalura
+Challenge literalura
 
 1 - Buscar libro por titulo:
   Busca un libro que coincida con un titulo dado
